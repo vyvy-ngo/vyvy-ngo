@@ -11,6 +11,6 @@
 As a member of the Computer Science Student Community [(CSSC)](https://cssc.utm.utoronto.ca/), I want to create a welcoming computer science environment by providing students access to any information they need. Using my experience as a TA and my passion for learning, I grab any information within my reach and pass them on to people who need it. In my spare time, I enjoy knitting and taking long walks in Skyrim.
 
 ### What I'm playing 🎮
-- Skyrim
-- Super Princess Peach DS
-- Set with Friends (Challenge me if you can)
+🐲 Skyrim  
+🍑 Super Princess Peach DS  
+🔷 Set with Friends (Challenge me if you can)  
