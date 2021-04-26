@@ -1,7 +1,5 @@
 ### Hello everyone! I'm VyVy Ngo 👋  
 
-Here are some ideas to get you started:  
-
 - 🔭 I’m currently working on [Latex with Friends.](https://github.com/LatexWithFriends)  
 - 🌱 I’m currently learning CSS Tailwind.  
 - 💬 Ask me about my pet cats: Muffin and Chloé.  
