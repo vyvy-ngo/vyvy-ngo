@@ -1,6 +1,6 @@
 ### Hello everyone! I'm VyVy Ngo 👋  
 
-- 🔭 I’m currently working on [Latex with Friends.](https://github.com/LatexWithFriends)  
+- 🔭 I’m currently working on [LaTeX with Friends.](https://github.com/LatexWithFriends)  
 - 🌱 I’m currently learning Tailwind CSS.  
 - 💬 Ask me about my cats: Muffin and Chloé.  
 - 📫 How to reach me: vyvy.ngo@mail.utoronto.ca  
